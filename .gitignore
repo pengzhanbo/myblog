@@ -57,6 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-
 # theme node_modules
 theme/apollo/node_modules/
