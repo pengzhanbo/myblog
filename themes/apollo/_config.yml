@@ -1,19 +1,20 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    GitHub: https://github.com/volodymyr-lian/
     Rss: /atom.xml
 
 favicon: /favicon.png
-logo: /favicon.png
+logo: /helloboy.gif
 
 # Comment
 # e.g disqus: seansun
 disqus:
 duoshuo:
 cloudTie:
-
+sohucs:
+    appId: cyt1jefB2
+    appKey: c7ff34c4a9e32342ab8fdf52ef837615
 # Analytics
 # google-analytics:
 ga: UA-65933410-1
